@@ -1,0 +1,11 @@
+id: 8b0227e54daf44ef8e953ff1e9dac1de
+annotation_type: index
+revision: '00001'
+annotations:
+  82cb3343c4824088910b1d4aa6ed12c2:
+    parts: {}
+    span:
+    - vol: 97
+      start: 0
+      end: 31360
+    work_id: Q5700
