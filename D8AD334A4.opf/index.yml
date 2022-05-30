@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   91cb4ddde4cd45149ac6caa22f05ebd7:
     parts: {}
+    work_id: Q5700
     span:
-    - vol: 97
+    - base: '4071'
       start: 0
       end: 31369
-    work_id: Q5700
